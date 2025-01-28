@@ -1,6 +1,6 @@
 "use client";
 
-import { Select as MuiSelect, SelectProps } from "@mui/material";
+import { Select as MuiSelect, type SelectProps } from "@mui/material";
 import { useRef } from "react";
 import { useFormStatus } from "react-dom";
 
