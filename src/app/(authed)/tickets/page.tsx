@@ -83,7 +83,7 @@ export default async function Tickets(props: { searchParams: SearchParams }) {
 										))}
 									</FilterSelect>
 								</TableCell>
-								<TableCell>Description</TableCell>
+								<TableCell>Subject</TableCell>
 							</TableRow>
 						</TableHead>
 						<TableBody>
